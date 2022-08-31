@@ -16,6 +16,9 @@ http://www.slideshare.net/fumisatokawahara/unity-58145478
 
 ## 動作確認環境
 
+* MacOS Monterey version 12.5 
+* Android Studio Chipmunk | 2021.2.1 Patch 2
+* Pixle 2 - Android 13 (Simulator)
 * Unity 2020.1.8f1での動作を確認しています
 
 ## 手順
