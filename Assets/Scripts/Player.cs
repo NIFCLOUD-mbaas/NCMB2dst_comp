@@ -44,7 +44,7 @@ public class Player : MonoBehaviour
 	}
 
 	// 機体の移動
-	void Move (Vector2 direction)
+	public void Move (Vector2 direction)
 	{
 		// 画面左下のワールド座標をビューポートから取得
 		Vector2 min = Camera.main.ViewportToWorldPoint(new Vector2(0, 0));
